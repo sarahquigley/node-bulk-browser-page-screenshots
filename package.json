@@ -1,0 +1,27 @@
+{
+  "name": "bulk-browser-page-screenshots",
+  "version": "1.0.0",
+  "description": "Sample script for taking bulk browser page screenshots using Node, Puppeteer, and Async.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahquigley/node-bulk-browser-page-screenshots.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "puppeteer",
+    "async",
+    "javascript",
+    "screenshot"
+  ],
+  "author": "Sarah Quigley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarahquigley/node-bulk-browser-page-screenshots/issues"
+  },
+  "homepage": "https://github.com/sarahquigley/node-bulk-browser-page-screenshots#readme"
+}
